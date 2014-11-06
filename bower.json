@@ -1,0 +1,8 @@
+{
+  "name": "Irmas Welt",
+  "dependencies": {
+    "foundation": "~5.4.6",
+    "slick-carousel": "~1.3.12",
+    "picturefill": "~2.1.0"
+  }
+}

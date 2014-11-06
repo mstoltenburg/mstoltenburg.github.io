@@ -1,2 +1,6 @@
 _site
 .sass-cache
+bower_components
+Gemfile.lock
+node_modules
+assets/images/_fullsize

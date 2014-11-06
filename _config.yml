@@ -2,14 +2,35 @@
 title: Irmas Welt
 email: moritz.stoltenburg@web.de
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Die experimetelle Webseite von DJ slomo.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mstoltenburg.github.io" # the base hostname & protocol for your site
 twitter_username: mstoltenburg
 github_username:  mstoltenburg
 timezone: Europe/Berlin
+exclude:
+  - assets/images/_fullsize
+  - bower.json
+  - bower_components/
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - Gruntfile.js
+  - mstoltenburg.sublime-project
+  - mstoltenburg.sublime-workspace
+  - node_modules/
+  - package.json
+  - README.md
+  - vendor/
+categories:
+  - Elternzeit
+  - Neuseeland
+
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
+markdown: redcarpet
+highlighter: pygments
+
+permalink: /:year/:month/:day/:title/
+relative_permalinks: true
