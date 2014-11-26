@@ -13,7 +13,7 @@
 .site-title {
     font-size: 26px;
     line-height: 56px;
-    letter-spacing: -1px;
+    // letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
 
@@ -199,7 +199,7 @@
 
 .post-title {
     font-size: 42px;
-    letter-spacing: -1px;
+    // letter-spacing: -1px;
     line-height: 1;
 
     @include media-query($on-laptop) {
@@ -232,5 +232,9 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    p {
+        color: #666;
     }
 }

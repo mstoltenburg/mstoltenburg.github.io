@@ -59,19 +59,40 @@ figure > img {
     display: block;
 }
 
+.carousel {
+    margin-right: -1em;
+
+    figure.slick-slide {
+        margin-right: 1em;
+        background-color: rgba(51, 51, 51, .6);
+        // @include flex-box();
+        // align-items: center;
+    }
+
+    picture {
+        // @include flex(1);
+    }
+}
+
 figure {
     position: relative;
+    overflow: hidden;
+
+    &:hover figcaption {
+        bottom: -2.5em;
+    }
 }
 
 figcaption {
     font-size: $small-font-size;
     color: #fff;
-    background-color: rgba(51, 51, 51, .8);
+    background-color: rgba(51, 51, 51, .6);
     padding: .5em;
     width: 100%;
     box-sizing: border-box;
     position: absolute;
     bottom: 0;
+    transition: bottom .2s;
 }
 
 
@@ -96,7 +117,7 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 400;
 }
 
 
@@ -128,7 +149,7 @@ blockquote {
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
-    letter-spacing: -1px;
+    // letter-spacing: -1px;
     font-style: italic;
 
     > :last-child {

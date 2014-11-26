@@ -2,7 +2,31 @@
 //
 // We use this to add box-sizing across browser prefixes
 @mixin box-sizing($type:border-box) {
-    -webkit-box-sizing: $type; // Android < 2.3, iOS < 4
-       -moz-box-sizing: $type; // Firefox < 29
-            box-sizing: $type; // Chrome, IE 8+, Opera, Safari 5.1
+	-webkit-box-sizing: $type; // Android < 2.3, iOS < 4
+	   -moz-box-sizing: $type; // Firefox < 29
+	        box-sizing: $type; // Chrome, IE 8+, Opera, Safari 5.1
+}
+
+@mixin flex-box() {
+	display: -webkit-box;  /* OLD - iOS 6-, Safari 3.1-6 */
+	display: -moz-box;     /* OLD - Firefox 19- (buggy but mostly works) */
+	display: -ms-flexbox;  /* TWEENER - IE 10 */
+	display: -webkit-flex; /* NEW - Chrome */
+	display: flex;         /* NEW, Spec - Opera 12.1, Firefox 20+ */
+}
+
+@mixin flex($value) {
+	-webkit-box-flex: $value; /* OLD - iOS 6-, Safari 3.1-6 */
+	   -moz-box-flex: $value; /* OLD - Firefox 19- */
+	    -webkit-flex: $value; /* Chrome */
+	        -ms-flex: $value; /* IE 10 */
+	            flex: $value; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+}
+
+@mixin order($value) {
+	-webkit-box-ordinal-group: $value; /* OLD - iOS 6-, Safari 3.1-6 */
+	   -moz-box-ordinal-group: $value; /* OLD - Firefox 19- */
+	           -ms-flex-order: $value; /* TWEENER - IE 10 */
+	            -webkit-order: $value; /* NEW - Chrome */
+	                    order: $value; /* NEW, Spec - Opera 12.1, Firefox 20+ */
 }

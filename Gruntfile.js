@@ -11,20 +11,18 @@ module.exports = function(grunt) {
 				sizes: [
 					{
 						name: 'phone',
-						width: 320
+						width: 320,
+						height: 213
 					},
 					{
 						name: 'tablet',
-						width: 768
-					},
-					{
-						name: 'tablet',
-						suffix: '@2',
-						width: 1536
+						width: 768,
+						height: 512
 					},
 					{
 						name: 'desktop',
-						width: 1024
+						width: 680,
+						height: 453
 					}
 				]
 			},
@@ -33,13 +31,14 @@ module.exports = function(grunt) {
 					expand: true,
 					cwd: 'assets/images/_fullsize',
 					src: ['**/*.{JPG,jpg,gif,png}'],
-					dest: 'assets/images/pictures/'
+					// dest: 'assets/images/pictures/'
+					custom_dest: 'assets/images/{%= name %}/'
 				}]
 			},
 		},
 		responsive_images_converter: {
 			options: {
-				asset: '/assets/images/pictures/',
+				asset: '/assets/images/',
 				queries: [{
 					name: 'phone',
 					media: '(max-width:320px)'
@@ -47,8 +46,8 @@ module.exports = function(grunt) {
 					name: 'tablet',
 					media: '(max-width:800px)',
 					//device pixel ratio( 1 is default )
-					dprs: [ 2 ],
-					suffix: '@'
+					// dprs: [ 2 ],
+					// suffix: '@'
 				},{
 					name: 'desktop',
 					media: '(min-width:800px)'
@@ -62,12 +61,32 @@ module.exports = function(grunt) {
 					dest: '_posts'
 				}]
 			}
+		},
+		watch: {
+			images: {
+				files: [ 'assets/images/_fullsize/*.JPG' ],
+				tasks: 'responsive_images'
+			},
+			posts: {
+				files: [ '_originals/*.md' ],
+				tasks: 'responsive_images_converter'
+			},
+			config: {
+				files: [
+					'bower.json',
+					'Gruntfile.js'
+				],
+				options: {
+					reload: true
+				}
+			}
 		}
 	});
 
-	// Load the plugin that provides the "uglify" task.
+	// Load required plugins
 	grunt.loadNpmTasks('grunt-responsive-images');
 	grunt.loadNpmTasks('grunt-responsive-images-converter');
+	grunt.loadNpmTasks('grunt-contrib-watch');
 
 	// Register tasks.
 	grunt.registerTask('default', ['images']);
