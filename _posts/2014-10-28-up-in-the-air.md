@@ -84,4 +84,12 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 		<img alt="">
 	</picture>
 </figure>
+<figure>
+	<picture>
+		<source srcset="/assets/images/phone/IMG_0613.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/IMG_0613.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/IMG_0613.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+</figure>
 </div>

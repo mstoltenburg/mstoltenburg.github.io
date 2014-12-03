@@ -13,9 +13,25 @@ categories: Elternzeit Neuseeland
 
 <figure>
 	<picture>
-		<source srcset="/assets/images/phone/IMG_0613.JPG" media="(max-width:320px)">
-		<source srcset="/assets/images/tablet/IMG_0613.JPG" media="(max-width:800px)">
-		<source srcset="/assets/images/desktop/IMG_0613.JPG" media="(min-width:800px)">
+		<source srcset="/assets/images/phone/IMG_0625.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/IMG_0625.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/IMG_0625.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+</figure>
+<figure>
+	<picture>
+		<source srcset="/assets/images/phone/DSC02083.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/DSC02083.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/DSC02083.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+</figure>
+<figure>
+	<picture>
+		<source srcset="/assets/images/phone/DSC02107.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/DSC02107.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/DSC02107.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
 </figure>

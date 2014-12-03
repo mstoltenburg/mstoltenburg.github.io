@@ -37,6 +37,14 @@ Irma schläft friedlich im Kinderwagen. Sie hat heute wieder fleißig Duplostein
 </figure>
 <figure>
 	<picture>
+		<source srcset="/assets/images/phone/IMGP0427.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/IMGP0427.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/IMGP0427.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+</figure>
+<figure>
+	<picture>
 		<source srcset="/assets/images/phone/IMGP0438.JPG" media="(max-width:320px)">
 		<source srcset="/assets/images/tablet/IMGP0438.JPG" media="(max-width:800px)">
 		<source srcset="/assets/images/desktop/IMGP0438.JPG" media="(min-width:800px)">
@@ -51,7 +59,7 @@ Irma schläft friedlich im Kinderwagen. Sie hat heute wieder fleißig Duplostein
 		<source srcset="/assets/images/desktop/IMGP0457.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Angler-Töpel</figcaption>
+	<figcaption>Angler</figcaption>
 </figure>
 </div>
 

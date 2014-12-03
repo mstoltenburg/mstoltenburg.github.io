@@ -19,8 +19,9 @@ Irma schläft friedlich im Kinderwagen. Sie hat heute wieder fleißig Duplostein
 <div class="carousel">
 ![Irmas Genussprobe](/assets/images/_fullsize/IMGP0414.JPG)
 ![Der schwarze eisenhaltige Sand am Muriwai Beach stammt aus der Verwitterung alter Vulkane](/assets/images/_fullsize/IMGP0422.JPG)
+![](/assets/images/_fullsize/IMGP0427.JPG)
 ![Basstölpel-Kolonie](/assets/images/_fullsize/IMGP0438.JPG)
-![Angler-Töpel](/assets/images/_fullsize/IMGP0457.JPG)
+![Angler](/assets/images/_fullsize/IMGP0457.JPG)
 </div>
 
 *Born to Camp* ist seit dem ersten Tag unser running gag, gerne zitiert wenn man sich mal wieder zwischen Spüle und Bett verkeilt oder einem eine riesige Kakerlake ins Gesicht fliegt.

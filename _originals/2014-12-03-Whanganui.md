@@ -20,6 +20,7 @@ Zu unserer aktuellen Erschöpfung trägt vermutlich auch bei, dass es mit jedem 
 ![](/assets/images/_fullsize/DSC02101.JPG)
 ![New Zealand green-lipped mussel](/assets/images/_fullsize/IMG_0659.JPG)
 ![](/assets/images/_fullsize/IMGP0641.JPG)
+![](/assets/images/_fullsize/IMGP0649.JPG)
 ![Cathedral Cove, Coromandel](/assets/images/_fullsize/IMGP0661.JPG)
 ![Blubberndes Schlammloch auf dem Campingplatz in Rotorua](/assets/images/_fullsize/DSC02127.JPG)
 ![Rotorua Museum Of Art And History](/assets/images/_fullsize/DSC02137.JPG)

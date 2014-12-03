@@ -56,4 +56,5 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 ![](/assets/images/_fullsize/DSC01736.JPG)
 ![](/assets/images/_fullsize/DSC01745.JPG)
 ![](/assets/images/_fullsize/DSC01748.JPG)
+![](/assets/images/_fullsize/IMG_0613.JPG)
 </div>

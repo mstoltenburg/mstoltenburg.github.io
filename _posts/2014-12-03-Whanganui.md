@@ -68,6 +68,14 @@ Zu unserer aktuellen Erschöpfung trägt vermutlich auch bei, dass es mit jedem 
 </figure>
 <figure>
 	<picture>
+		<source srcset="/assets/images/phone/IMGP0649.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/IMGP0649.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/IMGP0649.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+</figure>
+<figure>
+	<picture>
 		<source srcset="/assets/images/phone/IMGP0661.JPG" media="(max-width:320px)">
 		<source srcset="/assets/images/tablet/IMGP0661.JPG" media="(max-width:800px)">
 		<source srcset="/assets/images/desktop/IMGP0661.JPG" media="(min-width:800px)">
