@@ -10,13 +10,13 @@ Irma entwickelt sich zum ideallen Reisekind. Auf den letzten Etappen hat sie jed
 
 Es ist sicher sehr schön und beeindruckend, mit so einem kleinen Campervan durch Neuseeland zu reisen, aber es erweist sich auch als streckenweise ziemlich anstrengend. Wenn der eine im Wagen hantiert, ist der andere oft zum Nichtstun verdammt, da für zwei einfach kein Platz ist. *First World Problems*
 
-Zu unserer aktuellen Erschöpfung trägt vermutlich auch bei, dass es mit jedem Kilometer Richtung Süden kälter geworden ist. Wir tragen inzwischen mehrere Schichten mehr Kleidung, z.B. unsere Pudelmützen aus Aukland und unsere frisch erstandenen Handschuhe aus Rotorua. Am Ufer des Lake Taupo haben wir an einem DOC-Rastplatz übernachtet und wären fast erfroren. Wir finden die meisten Stellplätze über CamperMate, einer super App, die alle Campingplätze Neuseelands mit Beschreibung und Bewertung auflistet. Dort gab es für diesen Stellplatz schon eine Menge Kommentare, die die fabelhafte Aussicht anpriesen, aber vor starkem Wind warnten, der das Wohnmobil schaukeln lässt. Wir kamen am frühen Abend an, es war ordentlich Wind und fing dann auch noch heftig an zu regnen. Eine richtig ungemütliche Suppe. Daraus wurde dann noch zauberhatestes Abendlicht mit Kino-Sonnenuntergang. Am nächsten Morgen strahlend blauer Himmel, so dass man die schneebedeckten Berge am anderen Ufer des riesigen Sees sehen konnte. War trotzdem scheiße kalt.
+Zu unserer aktuellen Erschöpfung trägt vermutlich auch bei, dass es mit jedem Kilometer Richtung Süden kälter geworden ist. Wir tragen inzwischen mehrere Schichten mehr Kleidung, z.B. unsere Pudelmützen aus Aukland und unsere frisch erstandenen Handschuhe aus Rotorua. Am Ufer des Lake Taupo haben wir an einem DOC-Rastplatz übernachtet und wären fast erfroren. Wir finden die meisten Stellplätze über [CamperMate][campermate], einer super App, die alle Campingplätze Neuseelands mit Beschreibung und Bewertung auflistet. Dort gab es für diesen Stellplatz schon eine Menge Kommentare, die die fabelhafte Aussicht anpriesen, aber vor starkem Wind warnten, der das Wohnmobil schaukeln lässt. Wir kamen am frühen Abend an, es war ordentlich Wind und fing dann auch noch heftig an zu regnen. Eine richtig ungemütliche Suppe. Daraus wurde dann aber noch zauberhaftestes Abendlicht mit Kino-Sonnenuntergang. Am nächsten Morgen strahlend blauer Himmel, so dass man die schneebedeckten Berge am anderen Ufer des riesigen Sees sehen konnte. War trotzdem scheiße kalt. [Sweet as][sweetas].
 
 
 <div class="carousel">
 ![Irmas Stehversuche](/assets/images/_fullsize/DSC02091.JPG)
 ![Kunst](/assets/images/_fullsize/IMGP0613.JPG)
-![Driving Creek Railway](/assets/images/_fullsize/IMGP0624.JPG)
+![Driving Creek Railway, Coromandel](/assets/images/_fullsize/IMGP0624.JPG)
 ![](/assets/images/_fullsize/DSC02101.JPG)
 ![New Zealand green-lipped mussel](/assets/images/_fullsize/IMG_0659.JPG)
 ![](/assets/images/_fullsize/IMGP0641.JPG)
@@ -42,3 +42,6 @@ Zu unserer aktuellen Erschöpfung trägt vermutlich auch bei, dass es mit jedem 
 ![Achtung Kiwis](/assets/images/_fullsize/IMGP0861.JPG)
 ![](/assets/images/_fullsize/IMG_0685.JPG)
 </div>
+
+[campermate]: http://www.campermate.co.nz/
+[sweetas]: http://www.urbandictionary.com/define.php?term=sweet%20as
