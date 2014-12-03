@@ -4,8 +4,6 @@ title:  "Up in the air"
 date:   2014-10-29 12:23:38
 categories: Elternzeit
 ---
-Der Flug
-
 Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendlich war aber alles gar nicht so schlimm:
 
 ### Dienstag, 28.10.2014
