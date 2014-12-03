@@ -1,0 +1,175 @@
+$font-path: "../assets/fonts";
+
+// PT Sans
+
+@font-face {
+	font-family: "PT Sans";
+	src: url("$font-path/PTSans/pts55f_w.eot");
+	src: local("PT Sans"),
+		 local("PTSans-Regular"),
+		 url("$font-path/PTSans/PTS55F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTS55F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTS55F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTS55F_W.svg#PTSans-Regular") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans";
+	font-style: italic;
+	src: url("$font-path/PTSans/pts56f_w.eot");
+	src: local("PT Sans Italic"),
+		 local("PTSans-Italic"),
+		 url("$font-path/PTSans/PTS56F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTS56F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTS56F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTS56F_W.svg#PTSans-Italic") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans";
+	font-style: normal;
+	font-weight: bold;
+	src: url("$font-path/PTSans/pts75f_w.eot");
+	src: local("PT Sans Bold"),
+		 local("PTSans-Bold"),
+		 url("$font-path/PTSans/PTS75F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTS75F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTS75F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTS75F_W.svg#PTSans-Bold") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans";
+	font-style: italic;
+	font-weight: bold;
+	src: url("$font-path/PTSans/pts76f_w.eot");
+	src: local("PT Sans Bold Italic"),
+		 local("PTSans-BoldItalic"),
+		 url("$font-path/PTSans/PTS76F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTS76F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTS76F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTS76F_W.svg#PTSans-BoldItalic") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans Caption";
+	src: url("$font-path/PTSans/ptc55f_w.eot");
+	src: local("PT Sans Caption"),
+		 local("PTSans-Caption"),
+		 url("$font-path/PTSans/PTC55F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTC55F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTC55F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTC55F_W.svg#PTSans-Caption") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans Caption";
+	font-weight: bold;
+	src: url("$font-path/PTSans/ptc75f_w.eot");
+	src: local("PT Sans Caption Bold"),
+		 local("PTSans-CaptionBold"),
+		 url("$font-path/PTSans/PTC75F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTC75F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTC75F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTC75F_W.svg#PTSans-CaptionBold") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans Narrow";
+	src: url("$font-path/PTSans/ptn57f_w.eot");
+	src: local("PT Sans Narrow"),
+		 local("PTSans-Narrow"),
+		 url("$font-path/PTSans/PTN57F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTN57F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTN57F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTN57F_W.svg#PTSans-Narrow") format("svg");
+}
+
+@font-face {
+	font-family: "PT Sans Narrow";
+	font-weight: bold;
+	src: url("$font-path/PTSans/ptn77f_w.eot");
+	src: local("PT Sans Narrow Bold"),
+		 local("PTSans-NarrowBold"),
+		 url("$font-path/PTSans/PTN77F_W.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSans/PTN77F_W.woff") format("woff"),
+		 url("$font-path/PTSans/PTN77F_W.ttf") format("truetype"),
+		 url("$font-path/PTSans/PTN77F_W.svg#PTSans-NarrowBold") format("svg");
+}
+
+// PT Serif
+
+@font-face {
+	font-family: "PT Serif";
+	src: url("$font-path/PTSerif/ptf55f_w.eot");
+	src: local("PT Serif"),
+		 local("PTSerif-Regular"),
+		 url("$font-path/PTSerif/ptf55f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSerif/ptf55f_w.woff") format("woff"),
+		 url("$font-path/PTSerif/ptf55f_w.ttf") format("truetype"),
+		 url("$font-path/PTSerif/ptf55f_w.svg#PTSerif-Regular") format("svg");
+}
+
+@font-face {
+	font-family: "PT Serif";
+	font-style: italic;
+	src: url("$font-path/PTSerif/ptf56f_w.eot");
+	src: local("PT Serif Italic"),
+		 local("PTSerif-Italic"),
+		 url("$font-path/PTSerif/ptf56f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSerif/ptf56f_w.woff") format("woff"),
+		 url("$font-path/PTSerif/ptf56f_w.ttf") format("truetype"),
+		 url("$font-path/PTSerif/ptf56f_w.svg#PTSerif-Italic") format("svg");
+}
+
+@font-face {
+	font-family: "PT Serif";
+	font-style: normal;
+	font-weight: bold;
+	src: url("$font-path/PTSerif/ptf75f_w.eot");
+	src: local("PT Serif Bold"),
+		 local("PTSerif-Bold"),
+		 url("$font-path/PTSerif/ptf75f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSerif/ptf75f_w.woff") format("woff"),
+		 url("$font-path/PTSerif/ptf75f_w.ttf") format("truetype"),
+		 url("$font-path/PTSerif/ptf75f_w.svg#PTSerif-Bold") format("svg");
+}
+
+@font-face {
+	font-family: "PT Serif";
+	font-style: italic;
+	font-weight: bold;
+	src: url("$font-path/PTSerif/ptf76f_w.eot");
+	src: local("PT Serif Bold Italic"),
+		 local("PTSerif-BoldItalic"),
+		 url("$font-path/PTSerif/ptf76f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTSerif/ptf76f_w.woff") format("woff"),
+		 url("$font-path/PTSerif/ptf76f_w.ttf") format("truetype"),
+		 url("$font-path/PTSerif/ptf76f_w.svg#PTSerif-BoldItalic") format("svg");
+}
+
+// PT Mono
+
+@font-face {
+	font-family: "PT Mono";
+	src: url("$font-path/PTMono/ptm55f_w.eot");
+	src: local("PT Mono"),
+		 local("PTMono-Regular"),
+		 url("$font-path/PTMono/ptm55f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTMono/ptm55f_w.woff") format("woff"),
+		 url("$font-path/PTMono/ptf55m_w.ttf") format("truetype"),
+		 url("$font-path/PTMono/ptm55f_w.svg#PTMono-Regular") format("svg");
+}
+
+@font-face {
+	font-family: "PT Mono";
+	font-style: normal;
+	font-weight: bold;
+	src: url("$font-path/PTMono/ptm75f_w.eot");
+	src: local("PT Mono Bold"),
+		 local("PTMono-Bold"),
+		 url("$font-path/PTMono/ptm75f_w.eot?#iefix") format("embedded-opentype"),
+		 url("$font-path/PTMono/ptm75f_w.woff") format("woff"),
+		 url("$font-path/PTMono/ptm75f_w.ttf") format("truetype"),
+		 url("$font-path/PTMono/ptm75f_w.svg#PTMono-Bold") format("svg");
+}

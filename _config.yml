@@ -28,9 +28,12 @@ categories:
 
 
 # Build settings
-# markdown: kramdown
-markdown: redcarpet
+# markdown: kramdown | redcarpet
+markdown: kramdown
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title/
 relative_permalinks: true
+
+gems:
+  - jemoji

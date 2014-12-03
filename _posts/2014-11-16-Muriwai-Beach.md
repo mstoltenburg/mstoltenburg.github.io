@@ -56,3 +56,5 @@ Irma schläft friedlich im Kinderwagen. Sie hat heute wieder fleißig Duplostein
 </div>
 
 *Born to Camp* ist seit dem ersten Tag unser running gag, gerne zitiert wenn man sich mal wieder zwischen Spüle und Bett verkeilt oder einem eine riesige Kakerlake ins Gesicht fliegt.
+
+Ein weiteres Mantra ist *help your wife* - freundlich aber bestimmt vorgetragen von einer Dame an der Gepäckkontrolle in Sydney.

@@ -9,8 +9,8 @@ categories: Elternzeit Neuseeland
 - *Family with children* Extra-Schalter (mit ohne Schlange) bei der Einreise am Flughafen
 - Toiletten mit Wickelraum inklusive Mikrowelle und Stillkabinen
 - man [bedankt sich beim Busfahrer][1] beim Aussteigen
+- **windig**
 
 ![](/assets/images/_fullsize/IMG_0613.JPG)
-![](/assets/images/_fullsize/DSC01889.JPG)
 
 [1]: http://www.reddit.com/r/newzealand/comments/1ee9gx/why_do_we_thank_the_bus_driver_in_christchurchnz/

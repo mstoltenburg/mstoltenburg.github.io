@@ -11,18 +11,18 @@ module.exports = function(grunt) {
 				sizes: [
 					{
 						name: 'phone',
-						width: 320,
-						height: 213
+						// height: 213,
+						width: 320
 					},
 					{
 						name: 'tablet',
-						width: 768,
-						height: 512
+						// height: 512,
+						width: 768
 					},
 					{
 						name: 'desktop',
-						width: 680,
-						height: 453
+						// height: 453,
+						width: 680
 					}
 				]
 			},

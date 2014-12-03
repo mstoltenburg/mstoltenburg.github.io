@@ -15,7 +15,7 @@ categories: Elternzeit
 - [Babycino][babycino]
 - Pouched Eggs
 
-### Pics or It Didn't Happen
+### Reisebilder
 
 <div class="carousel">
 ![Irma nach der Ankunft im Hotelzimmer - 04:55 AM](/assets/images/_fullsize/DSC01752.JPG)
@@ -45,7 +45,7 @@ categories: Elternzeit
 ![Dieser Hut ging leider später am Bondi Beach verloren](/assets/images/_fullsize/IMGP0194.JPG)
 ![](/assets/images/_fullsize/IMGP0195.JPG)
 ![](/assets/images/_fullsize/IMGP0203.JPG)
-![](/assets/images/_fullsize/IMGP0211.JPG)
+![Gulli mit Beschriftung](/assets/images/_fullsize/IMGP0211.JPG)
 ![](/assets/images/_fullsize/IMGP0219.JPG)
 ![](/assets/images/_fullsize/IMGP0234.JPG)
 ![](/assets/images/_fullsize/DSC01796.JPG)

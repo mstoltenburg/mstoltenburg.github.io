@@ -9,20 +9,13 @@ categories: Elternzeit Neuseeland
 - *Family with children* Extra-Schalter (mit ohne Schlange) bei der Einreise am Flughafen
 - Toiletten mit Wickelraum inklusive Mikrowelle und Stillkabinen
 - man [bedankt sich beim Busfahrer][1] beim Aussteigen
+- **windig**
 
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/IMG_0613.JPG" media="(max-width:320px)">
 		<source srcset="/assets/images/tablet/IMG_0613.JPG" media="(max-width:800px)">
 		<source srcset="/assets/images/desktop/IMG_0613.JPG" media="(min-width:800px)">
-		<img alt="">
-	</picture>
-</figure>
-<figure>
-	<picture>
-		<source srcset="/assets/images/phone/DSC01889.JPG" media="(max-width:320px)">
-		<source srcset="/assets/images/tablet/DSC01889.JPG" media="(max-width:800px)">
-		<source srcset="/assets/images/desktop/DSC01889.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
 </figure>

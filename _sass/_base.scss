@@ -19,10 +19,9 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
+    font-family: "PT Serif", Georgia, "Times New Roman", serif;
     font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
@@ -59,7 +58,7 @@ figure > img {
     display: block;
 }
 
-.carousel {
+.xcarousel {
     margin-right: -1em;
 
     figure.slick-slide {
@@ -77,13 +76,15 @@ figure > img {
 figure {
     position: relative;
     overflow: hidden;
+    margin-bottom: 20px;
 
     &:hover figcaption {
-        bottom: -2.5em;
+        bottom: -4em;
     }
 }
 
 figcaption {
+    font-family: $base-font-family;
     font-size: $small-font-size;
     color: #fff;
     background-color: rgba(51, 51, 51, .6);
@@ -111,12 +112,30 @@ li {
     }
 }
 
+dl {
+    padding: 0;
+
+    dt {
+        padding: 0;
+        margin-top: $spacing-unit / 2;
+        font-size: 1em;
+        font-style: italic;
+        font-weight: bold;
+    }
+
+    dd {
+        padding: 0 0 0 $spacing-unit / 2;
+        margin-bottom: $spacing-unit / 2;
+    }
+}
+
 
 
 /**
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font-family;
     font-weight: 400;
 }
 

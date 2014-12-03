@@ -23,7 +23,7 @@ Das nächste Ziel war unser erster [DOC-Campground in der Tapotupotu Bay][tapotu
 ![Cape Reinga](/assets/images/_fullsize/IMGP0562.JPG)
 </div>
 
-Von hier ging es weiter zur *Bay of Islands*. Unser Reiseführer und unser Campervan-Vermittler empfahlen das [Aroha Island Ecological Center][arohaisland].
+Von hier ging es weiter zur *Bay of Islands*. Unser DUMONT Reiseführer und unser Campervan-Vermittler empfahlen das [Aroha Island Ecological Center][arohaisland].
 
 [tapotupotu]: http://www.doc.govt.nz/parks-and-recreation/places-to-stay/conservation-campsites-by-region/northland/kaitaia-area/tapotupotu/
 [arohaisland]: http://www.arohaisland.co.nz/

@@ -15,7 +15,7 @@ categories: Elternzeit
 - [Babycino][babycino]
 - Pouched Eggs
 
-### Pics or It Didn't Happen
+### Reisebilder
 
 <div class="carousel">
 <figure>
@@ -215,6 +215,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0184.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Kängurus am Pebbly Beach</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -231,6 +232,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0194.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Dieser Hut ging leider später am Bondi Beach verloren</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -255,6 +257,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0211.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Gulli mit Beschriftung</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -352,6 +355,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMG_0592.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Teil der Sculpture by the Sea Ausstellung, Bondi to Bronte Coast Walk</figcaption>
 </figure>
 </div>
 
