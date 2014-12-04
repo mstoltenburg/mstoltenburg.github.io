@@ -43,7 +43,7 @@ Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287
 ![Mount Tongariro und Mount Ngauruhoe](/assets/images/_fullsize/IMGP0833.JPG)
 ![Mount Ngauruhoe](/assets/images/_fullsize/IMGP0837.JPG)
 ![Achtung Kiwis](/assets/images/_fullsize/IMGP0861.JPG)
-![](/assets/images/_fullsize/IMG_0685.JPG)
+![Der frühe Vogel](/assets/images/_fullsize/IMG_0685.JPG)
 </div>
 
 [campermate]: http://www.campermate.co.nz/

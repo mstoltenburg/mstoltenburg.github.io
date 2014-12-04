@@ -270,6 +270,7 @@ Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287
 		<source srcset="/assets/images/desktop/IMG_0685.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Der frühe Vogel</figcaption>
 </figure>
 </div>
 
