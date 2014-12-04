@@ -10,16 +10,15 @@ Irma entwickelt sich zum idealen Reisekind. Auf den letzten Etappen hat sie jede
 
 Leider ist es mit jedem Kilometer Richtung Süden kälter geworden. Das wurde uns zwar ein bisschen so prophezeit, hatten wir aber trotzdem nicht in diesem Ausmaß erwartet. Wir tragen inzwischen mehrere Schichten mehr Kleidung, z.B. unsere Pudelmützen aus Aukland und unsere frisch erstandenen Handschuhe aus Rotorua (aus einer Mischung aus neuseeländischer Merino-Wolle und Possum-Fell).
 
-Am Ufer des Lake Taupo haben wir an einem DOC-Rastplatz übernachtet und uns fast den Arm abgefroren. Wir finden die meisten Stellplätze über [CamperMate][campermate], einer super App, die alle Campingplätze Neuseelands mit Beschreibung und Bewertung auflistet. Dort gab es für diesen Stellplatz schon eine Menge Kommentare, die die fabelhafte Aussicht anpriesen, aber vor starkem Wind warnten, der das Wohnmobil schaukeln lässt. Wir kamen am frühen Abend an, es war ordentlich Wind und fing dann auch noch heftig an zu regnen. Eine richtig ungemütliche Suppe, die wir uns mit lauschigem Hörspielhören im Bus gemütlicher machten. Daraus wurde dann noch zauberhaftestes Abendlicht mit Kino-Sonnenuntergang. Nach heißer Nudelsuppe kuschelten wir uns zu dritt unter die Decken (Irma scheint übrigens immer am wenigsten zu frieren, aber auch sie trägt jetzt natürlich neuseeländische Wolle an Kopf und Händen). Am nächsten Morgen strahlend blauer Himmel, so dass man die schneebedeckten Berge am anderen Ufer des riesigen Kratersees sehen konnte. War trotzdem scheiße kalt. [Sweet as][sweetas].
+Am Ufer des Lake Taupo haben wir an einem DOC-Rastplatz übernachtet und uns dabei fast den Arm abgefroren. Wir finden die meisten Stellplätze über [CamperMate][campermate], einer super App, die alle Campingplätze Neuseelands mit Beschreibung und Bewertung auflistet. Dort gab es für diesen Stellplatz schon eine Menge Kommentare, die die fabelhafte Aussicht anpriesen, aber vor starkem Wind warnten, der das Wohnmobil schaukeln lässt. Wir kamen am frühen Abend an, es war ordentlich Wind und fing dann auch noch heftig an zu regnen. Eine richtig ungemütliche Suppe, die wir uns mit lauschigem Hörspielhören im Bus gemütlicher machten. Daraus wurde dann noch zauberhaftestes Abendlicht mit Kino-Sonnenuntergang. Nach heißer Nudelsuppe kuschelten wir uns zu dritt unter die Decken (Irma scheint übrigens immer am wenigsten zu frieren, aber auch sie trägt jetzt natürlich neuseeländische Wolle an Kopf und Händen). Am nächsten Morgen strahlend blauer Himmel, so dass man die schneebedeckten Berge am anderen Ufer des riesigen Kratersees sehen konnte. War trotzdem scheiße kalt. [Sweet as][sweetas].
 
 Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287 m und Mount Ruapehu, 2797 m - alles Vulkane, z.T. noch aktiv) begleitete uns die nächsten Stunden Autofahrt und auf der kleinen Wanderung (2 1/2 h) im Tongariro National Park. Diesmal hatten wir echt Glück mit dem Wetter - kaum eine Wolke am Himmel, wenig Wind und wie gesagt dieser unglaubliche Blick.
 
-
 <div class="carousel">
-![Irmas ersten Stehversuche](/assets/images/_fullsize/DSC02091.JPG)
+![Irmas erste Stehversuche](/assets/images/_fullsize/DSC02091.JPG)
 ![Kunst](/assets/images/_fullsize/IMGP0613.JPG)
 ![Driving Creek Railway, Coromandel](/assets/images/_fullsize/IMGP0624.JPG)
-![](/assets/images/_fullsize/DSC02101.JPG)
+![Tucks Bay](/assets/images/_fullsize/DSC02101.JPG)
 ![New Zealand green lipped mussels](/assets/images/_fullsize/IMG_0659.JPG)
 ![](/assets/images/_fullsize/IMGP0641.JPG)
 ![](/assets/images/_fullsize/IMGP0649.JPG)
@@ -33,13 +32,15 @@ Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287
 ![Lake Ngakoro](/assets/images/_fullsize/IMGP0726.JPG)
 ![Champagne Pool](/assets/images/_fullsize/DSC02151.JPG)
 ![Selfie @ Huka Falls, Taupo](/assets/images/_fullsize/IMGP0769.JPG)
-![Selfie Stick](/assets/images/_fullsize/IMGP0776.JPG)
+![Selfie Stick @ Huka Falls](/assets/images/_fullsize/IMGP0776.JPG)
+![… diesen Trend hat Europa verpennt](/assets/images/_fullsize/IMGP0767.JPG)
+![Huka Falls, Taupo](/assets/images/_fullsize/IMGP0764.JPG)
 ![Five Mile Bay Amenity Area am Lake Taupo](/assets/images/_fullsize/IMGP0802.JPG)
 ![Sonnenuntergang am Lake Taupo](/assets/images/_fullsize/IMGP0806.JPG)
 ![](/assets/images/_fullsize/IMGP0809.JPG)
 ![Am nächsten Morgen](/assets/images/_fullsize/IMGP0825.JPG)
 ![](/assets/images/_fullsize/IMGP0829.JPG)
-![](/assets/images/_fullsize/IMGP0833.JPG)
+![Mount Tongariro und Mount Ngauruhoe](/assets/images/_fullsize/IMGP0833.JPG)
 ![Mount Ngauruhoe](/assets/images/_fullsize/IMGP0837.JPG)
 ![Achtung Kiwis](/assets/images/_fullsize/IMGP0861.JPG)
 ![](/assets/images/_fullsize/IMG_0685.JPG)
