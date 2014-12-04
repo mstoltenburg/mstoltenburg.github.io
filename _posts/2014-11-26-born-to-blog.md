@@ -12,7 +12,7 @@ Inzwischen sind wir auf der Coromandel Peninsula angekommen. Vom [Muriwai Motorc
 
 Tags darauf ging es weiter den Twin Coast Discovery Highway entlang, inklusive Fährfahrt, bis zum Ninety Mile Beach im Norden. der dortige Ninety Mile Beach Holiday Park war der bisher uninspirierendste Campingplatz, was zum einen an den trostlosen Versorgungsanlagen (Küche, Duschen, Aufenthaltsraum) lag, vermutlich aber auch am ungemütlichen Wetter an dem Abend. Der namensgebende, nicht ganz 90 Kilometer lange Strand war am nächsten Morgen dafür um so beeindruckender. Auch Irma liebt Sand. Und Irma liebt das Meer. Am Strand ist sie immer richtig gut drauf und sehr entspannt.
 
-Das nächste Ziel war unser erster [DOC-Campground in der Tapotupotu Bay][tapotupotu], ganz oben im Norden, gleich neben dem Cape Reinga mit seinem oft fotografierten Leuchtturm. In einer zauberhaften Bucht gelegen, mit Plumpsklo (funktioniert einwandfrei geruchslos), Kaltwasserdusche, Selbsversorgung und atemberaubendem Sternenhimmel. Man füllt einen Zettel aus und schmeist das Geld in einen verschlossenen Briefkasten.
+Das nächste Ziel war unser erster [DOC-Campground in der Tapotupotu Bay][tapotupotu], ganz oben im Norden, gleich neben dem Cape Reinga mit seinem oft fotografierten Leuchtturm. In einer zauberhaften Bucht gelegen, mit Plumpsklo (funktioniert einwandfrei geruchslos), Kaltwasserdusche, Selbsversorgung und atemberaubendem Sternenhimmel. Man füllt einen Zettel aus und schmeist das Geld in einen verschlossenen Briefkasten, die *Honesty-Box*.
 
 <div class="carousel">
 <figure>
