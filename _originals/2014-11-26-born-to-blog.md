@@ -47,7 +47,7 @@ Bevor wir die Coromandel Peninsula erreichen, gab es noch einen Halt beim Kaiaua
 ![Uretiti Recreational Reservation](/assets/images/_fullsize/DSC02062.JPG)
 ![Uretiti Beach](/assets/images/_fullsize/DSC02064.JPG)
 ![Fish & Chips Mekka in Kaiaua](/assets/images/_fullsize/IMGP0606.JPG)
-![Long Bay Motor Camp & Cabins](/assets/images/_fullsize/DSC02083.JPG)
+![Long Bay Motor Camp & Cabins, Coromandel](/assets/images/_fullsize/DSC02083.JPG)
 ![Sunset](/assets/images/_fullsize/DSC02081.JPG)
 ![Fade-out](/assets/images/_fullsize/IMGP0610.JPG)
 </div>

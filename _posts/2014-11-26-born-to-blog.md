@@ -165,7 +165,7 @@ Bevor wir die Coromandel Peninsula erreichen, gab es noch einen Halt beim Kaiaua
 		<source srcset="/assets/images/desktop/DSC02083.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Long Bay Motor Camp & Cabins</figcaption>
+	<figcaption>Long Bay Motor Camp & Cabins, Coromandel</figcaption>
 </figure>
 <figure>
 	<picture>
