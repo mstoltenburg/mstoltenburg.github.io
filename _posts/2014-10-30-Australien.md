@@ -15,8 +15,6 @@ categories: Elternzeit
 - [Babycino][babycino]
 - Pouched Eggs
 
-### Reisebilder
-
 <div class="carousel">
 <figure>
 	<picture>

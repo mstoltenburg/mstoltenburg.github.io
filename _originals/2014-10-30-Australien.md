@@ -15,8 +15,6 @@ categories: Elternzeit
 - [Babycino][babycino]
 - Pouched Eggs
 
-### Reisebilder
-
 <div class="carousel">
 ![Irma nach der Ankunft im Hotelzimmer - 04:55 AM](/assets/images/_fullsize/DSC01752.JPG)
 ![Federation Square vor Flinders Street Station](/assets/images/_fullsize/IMGP0015.JPG)

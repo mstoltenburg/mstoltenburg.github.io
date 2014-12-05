@@ -10,7 +10,9 @@ categories: Elternzeit Neuseeland
 - Toiletten mit Wickelraum inklusive Mikrowelle und Stillkabinen
 - man [bedankt sich beim Busfahrer][1] beim Aussteigen
 - **windig**
+- Silberfarn
 
+<div class="carousel">
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/IMG_0625.JPG" media="(max-width:320px)">
@@ -27,5 +29,6 @@ categories: Elternzeit Neuseeland
 		<img alt="">
 	</picture>
 </figure>
+</div>
 
 [1]: http://www.reddit.com/r/newzealand/comments/1ee9gx/why_do_we_thank_the_bus_driver_in_christchurchnz/
