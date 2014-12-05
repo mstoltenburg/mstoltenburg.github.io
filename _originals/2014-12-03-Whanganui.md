@@ -15,14 +15,6 @@ Am Ufer des Lake Taupo haben wir an einem DOC-Rastplatz übernachtet und uns dab
 Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287 m und Mount Ruapehu, 2797 m - alles Vulkane, z.T. noch aktiv) begleitete uns die nächsten Stunden Autofahrt und auf der kleinen Wanderung (2 1/2 h) im Tongariro National Park. Diesmal hatten wir echt Glück mit dem Wetter - kaum eine Wolke am Himmel, wenig Wind und wie gesagt dieser unglaubliche Blick.
 
 <div class="carousel">
-![Irmas erste Stehversuche](/assets/images/_fullsize/DSC02091.JPG)
-![Kunst](/assets/images/_fullsize/IMGP0613.JPG)
-![Driving Creek Railway, Coromandel](/assets/images/_fullsize/IMGP0624.JPG)
-![Tucks Bay](/assets/images/_fullsize/DSC02101.JPG)
-![New Zealand green lipped mussels](/assets/images/_fullsize/IMG_0659.JPG)
-![](/assets/images/_fullsize/IMGP0641.JPG)
-![](/assets/images/_fullsize/IMGP0649.JPG)
-![Cathedral Cove, Coromandel](/assets/images/_fullsize/IMGP0661.JPG)
 ![Blubberndes Schlammloch auf dem Campingplatz in Rotorua](/assets/images/_fullsize/DSC02127.JPG)
 ![Rotorua Museum Of Art And History](/assets/images/_fullsize/DSC02137.JPG)
 ![Artist's Palette in Wai-O-Tapu](/assets/images/_fullsize/IMGP0673.JPG)

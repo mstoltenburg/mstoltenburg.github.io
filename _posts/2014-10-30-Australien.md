@@ -207,6 +207,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0182.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Linksverkehr</figcaption>
 </figure>
 <figure>
 	<picture>

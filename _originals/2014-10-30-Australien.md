@@ -39,7 +39,7 @@ categories: Elternzeit
 ![](/assets/images/_fullsize/IMGP0166.JPG)
 ![](/assets/images/_fullsize/IMGP0177.JPG)
 ![](/assets/images/_fullsize/IMGP0178.JPG)
-![](/assets/images/_fullsize/IMGP0182.JPG)
+![Linksverkehr](/assets/images/_fullsize/IMGP0182.JPG)
 ![Kängurus am Pebbly Beach](/assets/images/_fullsize/IMGP0184.JPG)
 ![](/assets/images/_fullsize/IMGP0191.JPG)
 ![Dieser Hut ging leider später am Bondi Beach verloren](/assets/images/_fullsize/IMGP0194.JPG)

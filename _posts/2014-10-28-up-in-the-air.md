@@ -59,6 +59,7 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 		<source srcset="/assets/images/desktop/DSC01733.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Flughafen Hamburg</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -75,6 +76,16 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 		<source srcset="/assets/images/desktop/DSC01745.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Irmas Spieluhr</figcaption>
+</figure>
+<figure>
+	<picture>
+		<source srcset="/assets/images/phone/DSC01738.JPG" media="(max-width:320px)">
+		<source srcset="/assets/images/tablet/DSC01738.JPG" media="(max-width:800px)">
+		<source srcset="/assets/images/desktop/DSC01738.JPG" media="(min-width:800px)">
+		<img alt="">
+	</picture>
+	<figcaption>Beim Zwischenstopp in Kuala Lumpur</figcaption>
 </figure>
 <figure>
 	<picture>
