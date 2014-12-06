@@ -271,3 +271,12 @@ pre {
 		}
 	}
 }
+
+/**
+ * Tables
+ */
+table {
+	font-family: $base-font-family;
+	border-collapse: separate;
+	border-spacing: 2px;
+}
