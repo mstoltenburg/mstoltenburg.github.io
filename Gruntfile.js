@@ -6,7 +6,7 @@ module.exports = function(grunt) {
 		responsive_images: {
 			options: {
 				engine: 'im',
-				quality: 50,
+				quality: 80,
 				newFilesOnly: true,
 				sizes: [
 					{
