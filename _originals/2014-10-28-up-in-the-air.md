@@ -57,5 +57,8 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 ![Irmas Spieluhr](/assets/images/_fullsize/DSC01745.JPG)
 ![Beim Zwischenstopp in Kuala Lumpur](/assets/images/_fullsize/DSC01738.JPG)
 ![](/assets/images/_fullsize/DSC01748.JPG)
-![](/assets/images/_fullsize/IMG_0613.JPG)
 </div>
+
+Der Flug von Australien nach Neuseeland kam uns dann schon vor wie eine Fahrt mit dem öffentlichen Nahverkehr, da er ja *nur* 3:15 Stunden dauerte. Das ist natürlich absurd, denn vor der Reise hätte uns so eine Flugzeit, die immerhin von Deutschland bis nach Tunis oder Marrakesch reicht, großen Respekt eingeflößt.
+
+![Im Airbus A380 von Sydney nach Auckland](/assets/images/_fullsize/IMG_0613.JPG)

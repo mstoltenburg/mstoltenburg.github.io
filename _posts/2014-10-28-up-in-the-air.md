@@ -95,6 +95,10 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 		<img alt="">
 	</picture>
 </figure>
+</div>
+
+Der Flug von Australien nach Neuseeland kam uns dann schon vor wie eine Fahrt mit dem öffentlichen Nahverkehr, da er ja *nur* 3:15 Stunden dauerte. Das ist natürlich absurd, denn vor der Reise hätte uns so eine Flugzeit, die immerhin von Deutschland bis nach Tunis oder Marrakesch reicht, großen Respekt eingeflößt.
+
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/IMG_0613.JPG" media="(max-width:320px)">
@@ -102,5 +106,5 @@ Vor der insgesamt 30-stündigen Anreise hatten wir sehr viel Respekt - letztendl
 		<source srcset="/assets/images/desktop/IMG_0613.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Im Airbus A380 von Sydney nach Auckland</figcaption>
 </figure>
-</div>
