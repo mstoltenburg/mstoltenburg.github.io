@@ -13,4 +13,4 @@ orange
 :   2 Nächte
 
 grün
-:   3 Nächte
+:   3 Nächte oder mehr

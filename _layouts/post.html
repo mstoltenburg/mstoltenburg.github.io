@@ -11,3 +11,18 @@ layout: default
 		{{ content }}
 	</div>
 </article>
+
+<nav class="post-navigation">
+	<ul>
+		{% if page.previous %}
+		<li class="previous-post">
+			<h2><a href="{{ page.previous.url | prepend: site.baseurl }}" title="vorheriger Beitrag">{{ page.previous.title }}</a></h2>
+		</li>
+		{% endif %}
+		{% if page.next %}
+		<li class="next-post">
+			<h2><a href="{{ page.next.url | prepend: site.baseurl }}" title="nächster Beitrag">{{ page.next.title }}</a></h2>
+		</li>
+		{% endif %}
+	</ul>
+</nav>
