@@ -17,7 +17,7 @@ categories: Elternzeit
 
 <div class="carousel">
 ![Irma nach der Ankunft im Hotelzimmer - 04:55 AM](/assets/images/_fullsize/DSC01752.JPG)
-![Federation Square vor Flinders Street Station](/assets/images/_fullsize/IMGP0015.JPG)
+![Federation Square vor Flinders Street Station, Melbourne](/assets/images/_fullsize/IMGP0015.JPG)
 ![Melbourne Southgate Pedestrian Bridge](/assets/images/_fullsize/IMGP0028.JPG)
 ![Jetlag](/assets/images/_fullsize/DSC01760.JPG)
 ![Im Botanischen Garten von Melbourne](/assets/images/_fullsize/IMGP0049.JPG)
@@ -32,7 +32,7 @@ categories: Elternzeit
 ![](/assets/images/_fullsize/IMGP0149.JPG)
 ![](/assets/images/_fullsize/IMGP0155.JPG)
 ![](/assets/images/_fullsize/IMGP0157.JPG)
-![Beachcomber Holiday Park](/assets/images/_fullsize/IMGP0158.JPG)
+![Beachcomber Holiday Park, Potato Point, New South Wales](/assets/images/_fullsize/IMGP0158.JPG)
 ![](/assets/images/_fullsize/IMGP0165.JPG)
 ![](/assets/images/_fullsize/IMGP0166.JPG)
 ![](/assets/images/_fullsize/IMGP0177.JPG)
@@ -49,12 +49,12 @@ categories: Elternzeit
 ![](/assets/images/_fullsize/DSC01796.JPG)
 ![Irmas Reisebett im Kangaroo Valley Glenmack Park](/assets/images/_fullsize/IMGP0259.JPG)
 ![Frühstück im Cafe Bella, Kangaroo Valley](/assets/images/_fullsize/DSC01811.JPG)
-![](/assets/images/_fullsize/IMGP0307.JPG)
+![Sydney (keine Fototapete)](/assets/images/_fullsize/IMGP0307.JPG)
 ![Kakadu in einem Jacaranda-Baum](/assets/images/_fullsize/IMGP0324.JPG)
 ![](/assets/images/_fullsize/IMGP0336.JPG)
 ![](/assets/images/_fullsize/IMGP0352.JPG)
-![](/assets/images/_fullsize/IMGP0372.JPG)
-![](/assets/images/_fullsize/DSC01830.JPG)
+![Sydney Harbour Bridge und Opera House](/assets/images/_fullsize/IMGP0372.JPG)
+![Küstenspaziergang von Coogee nach Bondi Beach](/assets/images/_fullsize/DSC01830.JPG)
 ![Teil der Sculpture by the Sea Ausstellung, Bondi to Bronte Coast Walk](/assets/images/_fullsize/IMG_0592.JPG)
 </div>
 

@@ -32,7 +32,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0015.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Federation Square vor Flinders Street Station</figcaption>
+	<figcaption>Federation Square vor Flinders Street Station, Melbourne</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -164,7 +164,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0158.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Beachcomber Holiday Park</figcaption>
+	<figcaption>Beachcomber Holiday Park, Potato Point, New South Wales</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -309,6 +309,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0307.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Sydney (keine Fototapete)</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -342,6 +343,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0372.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Sydney Harbour Bridge und Opera House</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -350,6 +352,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/DSC01830.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Küstenspaziergang von Coogee nach Bondi Beach</figcaption>
 </figure>
 <figure>
 	<picture>
