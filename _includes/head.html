@@ -4,10 +4,20 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description" content="{{ site.description }}">
+    <meta name="description" content="{{ site.description | strip_newlines }}">
+
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% endif %}
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:description" content="{{ site.description | strip_newlines }}" />
+    <meta property="og:image" content="{{ site.url }}/assets/images/og/IMGP0726.JPG" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <!-- {{ site.url }} -->
     <script src="/assets/scripts/picturefill.min.js"></script>
+
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}/feed.xml">
 </head>
+
