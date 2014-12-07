@@ -107,15 +107,6 @@ Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287
 </figure>
 <figure>
 	<picture>
-		<source srcset="/assets/images/phone/IMGP0767.JPG" media="(max-width:320px)">
-		<source srcset="/assets/images/tablet/IMGP0767.JPG" media="(max-width:800px)">
-		<source srcset="/assets/images/desktop/IMGP0767.JPG" media="(min-width:800px)">
-		<img alt="">
-	</picture>
-	<figcaption>… diesen Trend hat Europa verpennt</figcaption>
-</figure>
-<figure>
-	<picture>
 		<source srcset="/assets/images/phone/IMGP0764.JPG" media="(max-width:320px)">
 		<source srcset="/assets/images/tablet/IMGP0764.JPG" media="(max-width:800px)">
 		<source srcset="/assets/images/desktop/IMGP0764.JPG" media="(min-width:800px)">

@@ -25,7 +25,6 @@ Der Wahnsinnsblick auf die Berge (Mount Tongariro, 1967 m; Mount Ngauruhoe, 2287
 ![Champagne Pool](/assets/images/_fullsize/DSC02151.JPG)
 ![Selfie @ Huka Falls, Taupo](/assets/images/_fullsize/IMGP0769.JPG)
 ![Selfie Stick @ Huka Falls](/assets/images/_fullsize/IMGP0776.JPG)
-![… diesen Trend hat Europa verpennt](/assets/images/_fullsize/IMGP0767.JPG)
 ![Huka Falls, Taupo](/assets/images/_fullsize/IMGP0764.JPG)
 ![Five Mile Bay Amenity Area am Lake Taupo](/assets/images/_fullsize/IMGP0802.JPG)
 ![Sonnenuntergang am Lake Taupo](/assets/images/_fullsize/IMGP0806.JPG)

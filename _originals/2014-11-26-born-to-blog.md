@@ -63,7 +63,7 @@ Auf der Halbinsel haben wir einen sehr entspannten Platz ein paar Kilometer nör
 ![](/assets/images/_fullsize/IMGP0641.JPG)
 ![](/assets/images/_fullsize/IMGP0649.JPG)
 ![Cathedral Cove, Coromandel](/assets/images/_fullsize/IMGP0661.JPG)
-![Hot Water Beach](/assets/images/_fullsize/DSC02119.JPG)
+![Hot Water Beach, Coromandel](/assets/images/_fullsize/DSC02119.JPG)
 </div>
 
 [tapotupotu]: http://www.doc.govt.nz/parks-and-recreation/places-to-stay/conservation-campsites-by-region/northland/kaitaia-area/tapotupotu/

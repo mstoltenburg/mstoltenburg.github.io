@@ -267,7 +267,7 @@ Auf der Halbinsel haben wir einen sehr entspannten Platz ein paar Kilometer nör
 		<source srcset="/assets/images/desktop/DSC02119.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Hot Water Beach</figcaption>
+	<figcaption>Hot Water Beach, Coromandel</figcaption>
 </figure>
 </div>
 
