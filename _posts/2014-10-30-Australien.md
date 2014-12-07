@@ -265,6 +265,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0219.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Jervis Bay</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -273,6 +274,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0234.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Hyams Beach</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -298,6 +300,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/DSC01811.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Frühstück im Cafe Bella, Kangaroo Valley</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -314,6 +317,7 @@ categories: Elternzeit
 		<source srcset="/assets/images/desktop/IMGP0324.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Kakadu in einem Jacaranda-Baum</figcaption>
 </figure>
 <figure>
 	<picture>
