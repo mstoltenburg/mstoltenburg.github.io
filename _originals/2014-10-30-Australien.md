@@ -5,6 +5,8 @@ date:   2014-10-30 02:05:00
 categories: Elternzeit
 ---
 
+Ursprünglich war der Plan, ein lückenloses Logbuch der Reise zu erstellen. Da sich das als viel zu anstrengend erwiesen hat, kommt hier nur eine stichpunktartige Zusammenfassung von Australien. Vieles, was hier als typisch australisch steht, gilt ebenso für [Neuseeland]({% post_url 2014-11-12-Neuseeland %}), die Zuordnung ist diesbezüglich völlig beliebig. Auch wenn die beiden Länder absolut nicht zu verwechseln sind, findet man viele Dinge, die einem Mitteleuropäer in Australien besonders oder eigenartig erscheinen, genauso in Neuseeland vor, und umgekehrt.
+
 ### Australien ist …
 
 - Linksverkehr
@@ -14,6 +16,8 @@ categories: Elternzeit
 - Free WiFi (Melbourne)
 - [Babycino][babycino]
 - Pouched Eggs
+
+### Bildergalerie
 
 <div class="carousel">
 ![Irma nach der Ankunft im Hotelzimmer - 04:55 AM](/assets/images/_fullsize/DSC01752.JPG)

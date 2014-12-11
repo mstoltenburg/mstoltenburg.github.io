@@ -6,11 +6,15 @@ categories: Elternzeit Neuseeland
 ---
 ### Neuseeland ist …
 
-- *Family with children* Extra-Schalter (mit ohne Schlange) bei der Einreise am Flughafen
+- *Family with children* Extra-Schalter bei der Einreise am Flughafen
 - Toiletten mit Wickelraum inklusive Mikrowelle und Stillkabinen
 - man [bedankt sich beim Busfahrer][1] beim Aussteigen
-- **windig**
+- windig
 - Silberfarn
+- Holzlaster
+- Geschwindigkeitsempfehlungen
+- <abbr title="Bring Your Own">BYO</abbr>
+- Tasty, Colby, Edam & Mild - nach wenig schmeckende Käsesorten, die die Kühlregale im Supermarkt beherschen
 
 <div class="carousel">
 ![](/assets/images/_fullsize/IMG_0625.JPG)
