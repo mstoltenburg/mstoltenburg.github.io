@@ -13,12 +13,6 @@ Von [Whanganui]({% post_url 2014-12-03-Whanganui %}) aus sind wir vor einer Woch
 
 In Wellington blieben wir insgesamt 3 Tage und 4 Nächte. Wir benutzten zuerst die Kabelbahn für einen Blick über die Stadt, besuchten den Botanischen Garten mit seinem Rosengarten, und spazierten über den Night Market in der Cuba Street. Am nächsten Tag besuchten wir das Nationalmuseum Te Papa Tongarewa, bis uns von den unzähligen Multimedia-Installationen schwindelig wurde, und am Sonntag hatten wir ein herrliches ausgedehntes Frühstück im [Maranui Café][maranui] in der Lyall Bay im Gebäude des Maranui Surf Live Saving Club, ein Ort voller absurder historischer Automaten mit Blick auf den Strand und die startenden und landenden Flugzeuge am Flughafen von Wellington. Abschließend spazierten wir durch das Intellektuellenviertel Brooklyn und aßen Gourmet-Burger auf einer Parkbank im Tanera Park.
 
-Am Montagmorgen fuhren wir mit der Interislander Fähre nach Picton zur Südinsel. Die gut dreistündige Fährfahrt zwischen Neuseelands Hauptinseln durch die Cook Strait zählt zu Recht zu den schönsten der Welt. In Picton angekommen machten wir uns auf den Weg zur Golden Bay und hatten einen traumhaften Tag. Zum ersten Mal seit Tagen konnte man kurzärmelig herumlaufen. Wir machten erst Halt in der Muschelmetropole Havelock für einen Besuch im Mussel Pot für unglaublich leckere *green lipped mussels*, und kurz danach hielten wir nochmal für einen Kaffee über dem Wasser im Boat Shed Café in Nelson. Kaffee ist in Neuseeland immer und überall wahnsinnig lecker und gut zubereitet. Selbst in der kleinsten Kaschemme im verlassensten Tal bekommt man perfekt gebrühten Kaffe und gekonnt geschäumte Milch als *Flat White* oder *Cappuccino* serviert. Die Nacht verbrachten wir im sehr entspannten Golden Bay Kiwi Holiday Park am Tukurua Beach.
-
-Am nächsten Tag war Regen angekündigt, es blieb aber wolkig und trocken und so erkundeten wir die Nordspitze, warfen einen Blick auf den Farewell Spit und wanderten zum Wharariki Beach, der nur bei Ebbe sorglos von Osten nach Westen durchlaufen werden kann, um dann einen beeindruckenden Blick auf Archway Islands zu erhalten. Unser Campervan stand derweil *in the eye of the kiwi* auf dem idyllischen [Wharariki Beach Holiday Park][whararikibeachholidaypark], unter Pferden und Pfauen.
-
-Tags drauf regnete es wie gesagt den ganzen Tag, und so buchten wir uns nach einem Besuch des nördlichsten Punktes der Südinsel und des zauberhaften [The Naked Possum Cafe][nakedpossum] eine Unterkunft im reizenden [The Innlet][theinnlet]. Inzwischen haben wir hier einen Tag verbracht und sind heute rund um Teile der 30 km langen Landzunge *Farewell Spit* gewandert. Sie schirmt die Golden Bay von der offenen Tasman Sea ab, ist Vogelschutzgebiet und immer wieder tödliche Falle für Wale. Wir begegneten glücklicherweise nur einer dösenden Robbe am *Fossil Point* und ein paar Rindern auf dem Rückweg. Anschließend kehrten wir in die Kultkneipe *The Mussel Inn* ein, wo es deftiges Essen, Bier aus der hauseigenen Mikro-Brauerei und immer wieder legendäre Konzerte, Quiz oder Poetry Slam gibt. Das herbe Captain Cooker Manuka Beer wurde schon als bestes Bier Neuseeland ausgezeichnet und es trifft sich donnerstags offensichtlich die gesamte Nachbarschaft - wir sahen z.B. unsere Campingplatzbesitzer vom Golden Bay Kiwi Holiday Park. Heute war Quiz-Abend.
-
 <div class="carousel">
 <figure>
 	<picture>
@@ -92,6 +86,11 @@ Tags drauf regnete es wie gesagt den ganzen Tag, und so buchten wir uns nach ein
 	</picture>
 	<figcaption>Penthause Cinema & Cafe in Brooklyn, Wellington</figcaption>
 </figure>
+</div>
+
+Am Montagmorgen fuhren wir mit der Interislander Fähre nach Picton zur Südinsel. Die gut dreistündige Fährfahrt zwischen Neuseelands Hauptinseln durch die Cook Strait zählt zu Recht zu den schönsten der Welt. In Picton angekommen machten wir uns auf den Weg zur Golden Bay und hatten einen traumhaften Tag. Zum ersten Mal seit Tagen konnte man kurzärmelig herumlaufen. Wir machten erst Halt in der Muschelmetropole Havelock für einen Besuch im Mussel Pot für unglaublich leckere *green lipped mussels*, und kurz danach hielten wir nochmal für einen Kaffee über dem Wasser im Boat Shed Café in Nelson. Kaffee ist in Neuseeland immer und überall wahnsinnig lecker und gut zubereitet. Selbst in der kleinsten Kaschemme im verlassensten Tal bekommt man perfekt gebrühten Kaffe und gekonnt geschäumte Milch als *Flat White* oder *Cappuccino* serviert. Die Nacht verbrachten wir im sehr entspannten Golden Bay Kiwi Holiday Park am Tukurua Beach.
+
+<div class="carousel">
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/IMGP0960.JPG" media="(max-width:320px)">
@@ -171,6 +170,11 @@ Tags drauf regnete es wie gesagt den ganzen Tag, und so buchten wir uns nach ein
 	</picture>
 	<figcaption>Tukurua Beach am Golden Bay Kiwi Holiday Park, Takaka</figcaption>
 </figure>
+</div>
+
+Am nächsten Tag war Regen angekündigt, es blieb aber wolkig und trocken und so erkundeten wir die Nordspitze, warfen einen Blick auf den Farewell Spit und wanderten zum Wharariki Beach, der nur bei Ebbe sorglos von Osten nach Westen durchlaufen werden kann, um dann einen beeindruckenden Blick auf Archway Islands zu erhalten. Unser Campervan stand derweil *in the eye of the kiwi* auf dem idyllischen [Wharariki Beach Holiday Park][whararikibeachholidaypark], unter Pferden und Pfauen.
+
+<div class="carousel">
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/IMGP1017.JPG" media="(max-width:320px)">
@@ -250,6 +254,11 @@ Tags drauf regnete es wie gesagt den ganzen Tag, und so buchten wir uns nach ein
 	</picture>
 	<figcaption>Wharariki Beach Holiday Park von Nahem</figcaption>
 </figure>
+</div>
+
+Tags drauf regnete es wie gesagt den ganzen Tag, und so buchten wir uns nach einem Besuch des nördlichsten Punktes der Südinsel und des zauberhaften [The Naked Possum Cafe][nakedpossum] eine Unterkunft im reizenden [The Innlet][theinnlet]. Inzwischen haben wir hier einen Tag verbracht und sind heute rund um Teile der 30 km langen Landzunge *Farewell Spit* gewandert. Sie schirmt die Golden Bay von der offenen Tasman Sea ab, ist Vogelschutzgebiet und immer wieder tödliche Falle für Wale. Wir begegneten glücklicherweise nur einer dösenden Robbe am *Fossil Point* und ein paar Rindern auf dem Rückweg. Anschließend kehrten wir in die Kultkneipe *The Mussel Inn* ein, wo es deftiges Essen, Bier aus der hauseigenen Mikro-Brauerei und immer wieder legendäre Konzerte, Quiz oder Poetry Slam gibt. Das herbe Captain Cooker Manuka Beer wurde schon als bestes Bier Neuseeland ausgezeichnet und es trifft sich donnerstags offensichtlich die gesamte Nachbarschaft - wir sahen z.B. unsere Campingplatzbesitzer vom Golden Bay Kiwi Holiday Park. Heute war Quiz-Abend.
+
+<div class="carousel">
 <figure>
 	<picture>
 		<source srcset="/assets/images/phone/DSC02241.JPG" media="(max-width:320px)">
