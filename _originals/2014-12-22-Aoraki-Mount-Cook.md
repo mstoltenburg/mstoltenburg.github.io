@@ -3,7 +3,7 @@ layout: post
 title:  "Aoraki Mount Cook"
 date:   2014-12-22 21:02:40
 categories: Elternzeit Neuseeland
-image:  IMGP1431.jpg
+image:  IMGP1730.jpg
 ---
 	Stand: 3.871 km
 
