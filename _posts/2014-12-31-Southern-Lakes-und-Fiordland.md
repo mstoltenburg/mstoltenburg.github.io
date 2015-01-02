@@ -3,7 +3,7 @@ layout: post
 title:  "Southern Lakes und Fiordland"
 date:   2014-12-31 20:27:40
 categories: Elternzeit Neuseeland
-image:  IMGP1763.jpg
+image:  IMGP1818.jpg
 ---
 	Stand: 4.786 km
 
