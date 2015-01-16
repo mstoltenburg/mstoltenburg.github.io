@@ -3,7 +3,7 @@ layout: post
 title:  "Okains Bay"
 date:   2015-01-08 13:36:35
 categories: Elternzeit Neuseeland
-image:  IMGP1818.jpg
+image:  IMGP2202.jpg
 ---
 	Stand: 5.659 km
 
