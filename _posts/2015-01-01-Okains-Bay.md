@@ -89,6 +89,7 @@ Am nächsten Tag fuhren wir über die Otago Peninsula, eine wunderschöne Halbin
 		<source srcset="/assets/images/desktop/IMGP2038.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
+	<figcaption>Pazifikküste bei Dunedin</figcaption>
 </figure>
 <figure>
 	<picture>
@@ -353,7 +354,7 @@ Für die letzten zwei Tage (und Nächte) im Campervan hatten wir uns einen sehr 
 		<source srcset="/assets/images/desktop/IMGP2296.JPG" media="(min-width:800px)">
 		<img alt="">
 	</picture>
-	<figcaption>Piratenschiff in der Okains Bay</figcaption>
+	<figcaption>Piratenschiff</figcaption>
 </figure>
 <figure>
 	<picture>

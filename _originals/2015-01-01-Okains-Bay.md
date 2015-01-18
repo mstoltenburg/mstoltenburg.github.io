@@ -36,7 +36,7 @@ Am nächsten Tag fuhren wir über die Otago Peninsula, eine wunderschöne Halbin
 
 <div class="carousel">
 ![Irma rockt](/assets/images/_fullsize/IMGP2037.JPG)
-![](/assets/images/_fullsize/IMGP2038.JPG)
+![Pazifikküste bei Dunedin](/assets/images/_fullsize/IMGP2038.JPG)
 ![](/assets/images/_fullsize/IMGP2047.JPG)
 ![Streetart in Dunedin](/assets/images/_fullsize/IMGP2073.JPG)
 ![Dunedin Public Art Gallery](/assets/images/_fullsize/IMGP2088.JPG)
@@ -82,6 +82,6 @@ Für die letzten zwei Tage (und Nächte) im Campervan hatten wir uns einen sehr 
 ![Hector-Delphin](/assets/images/_fullsize/IMGP2269.JPG)
 ![Akaroa](/assets/images/_fullsize/IMGP2272.JPG)
 ![](/assets/images/_fullsize/IMGP2290.JPG)
-![Piratenschiff in der Okains Bay](/assets/images/_fullsize/IMGP2296.JPG)
+![Piratenschiff](/assets/images/_fullsize/IMGP2296.JPG)
 ![Okains Bay Camping Ground](/assets/images/_fullsize/IMGP2298.JPG)
 </div>
