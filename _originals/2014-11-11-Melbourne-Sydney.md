@@ -3,6 +3,7 @@ layout: post
 title:  "Melbourne - Sydney"
 date:   2014-11-11 11:11:11
 categories: Elternzeit Australien
+image:  IMGP0184.jpg
 ---
 
 #### Melbourne *(30.10. – 2.11.)*
