@@ -30,7 +30,6 @@ categories:
 # Build settings
 # markdown: kramdown | redcarpet
 markdown: kramdown
-highlighter: pygments
 
 permalink: /:year/:month/:day/:title/
 
