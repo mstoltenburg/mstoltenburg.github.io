@@ -4,7 +4,7 @@ email: moritz.stoltenburg@web.de
 description: > # this means to ignore newlines until "baseurl:"
   Eindrücke einer Reise durch Australien und Neuseeland mit Kind.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://mstoltenburg.github.io" # the base hostname & protocol for your site
+url: "https://mstoltenburg.github.io" # the base hostname & protocol for your site
 twitter_username: mstoltenburg
 github_username:  mstoltenburg
 timezone: Europe/Berlin
@@ -33,7 +33,6 @@ markdown: kramdown
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title/
-relative_permalinks: true
 
 gems:
   - jemoji
